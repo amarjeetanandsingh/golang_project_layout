@@ -1,0 +1,5 @@
+[arango]
+username="root"
+password="root"
+port="8529"
+host="localhost"
